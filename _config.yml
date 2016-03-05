@@ -1,4 +1,4 @@
-title:            Juan H Biscaia
+title:            Juan Biscaia
 description:      JavaScript, AngularJS, FrontEnd, Web Apps.
 disqus_shortname: juanbiscaia
 reading_time:     true
@@ -11,14 +11,15 @@ url:
 owner:
   name:           Juan Biscaia
   avatar:         avatar.jpg
+  gravatar:       http://gravatar.com/avatar/1e704a21ee1772104f83eca06d75aef2?s=400
   bio:            "Programador, entusiasta."
   email:          juanbiscaia@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
-  facebook: https://www.facebook.com/juan.biscaia
-  github: https://github.com/JuanHB
+  facebook: juan.biscaia
+  github: JuanHB
   stackexchange:
-  linkedin: https://br.linkedin.com/in/juanbiscaia
+  linkedin: in/juanbiscaia
   instagram:
   flickr:
   tumblr:
