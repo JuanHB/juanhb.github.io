@@ -1,5 +1,5 @@
 title:            Juan H Biscaia
-description:      JavaScript, AngularJS, code chops and projects.
+description:      JavaScript, AngularJS, FrontEnd, Web Apps.
 disqus_shortname: juanbiscaia
 reading_time:     true
 words_per_minute: 200
@@ -11,14 +11,14 @@ url:
 owner:
   name:           Juan Biscaia
   avatar:         avatar.jpg
-  bio:            "Enthusiast, lover of life."
+  bio:            "Programador, entusiasta."
   email:          juanbiscaia@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
-  facebook:
-  github:
+  facebook: https://www.facebook.com/juan.biscaia
+  github: https://github.com/JuanHB
   stackexchange:
-  linkedin:
+  linkedin: https://br.linkedin.com/in/juanbiscaia
   instagram:
   flickr:
   tumblr:
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Brazil/Sao_Paulo
 future:      true
 highlighter: rouge
 markdown:    kramdown
